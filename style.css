@@ -1,0 +1,24 @@
+header {
+  height: 70px;
+  background-color: black;
+}
+
+header nav {
+    text-align: center;
+    line-height: 70px;
+    
+}
+
+header nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+#firstParagraph{
+    color: red;
+}
+
+.listitem{
+    color: blue;
+}
